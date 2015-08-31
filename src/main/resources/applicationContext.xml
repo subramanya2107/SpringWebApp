@@ -17,8 +17,8 @@
 		<property name="driverClassName" value="net.sourceforge.jtds.jdbc.Driver" />
 		<property name="url"
 			value="jdbc:jtds:sqlserver://192.168.48.145/freshers_test" />
-		<property name="username" value="sa" />
-		<property name="password" value="Remedy123@" />
+		<property name="username" value="uname" />
+		<property name="password" value="pass" />
 	</bean>
 
 	<bean id="entityManagerFactory"
